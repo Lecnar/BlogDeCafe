@@ -61,10 +61,10 @@ img{
 
 /** HEADER **/
 .webp .header{
-    background-image: url(..//img/banner.webp);
+    background-image: url(../img/banner.webp);
 }
 .no-webp .header{
-    background-image: url(..//img/banner.jpg);
+    background-image: url(../img/banner.jpg);
 }
 .header{
 
